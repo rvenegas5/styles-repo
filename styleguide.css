@@ -1,0 +1,61 @@
+:root { 
+  --bizarre: #f2dedb;
+  --black: #000000;
+  --cararra: #ebebeb;
+  --eerie-black: #202020;
+  --white: #ffffff;
+ 
+  --font-size-l2: 12px;
+  --font-size-s: 11px;
+  --font-size-xl2: 14px;
+  --font-size-xxl2: 15px;
+  --font-size-xxxl: 38px;
+ 
+  --font-family-avenir-book: "Avenir-Book", Helvetica;
+  --font-family-avenir-medium: "Avenir-Medium", Helvetica;
+  --font-family-brittanysignature-regular: "BrittanySignature-Regular", Helvetica;
+  --font-family-montserrat: "Montserrat", Helvetica;
+}
+.avenir-book-normal-black-11px {
+  color: var(--black);
+  font-family: var(--font-family-avenir-book);
+  font-size: var(--font-size-s);
+  font-style: normal;
+  font-weight: 400;
+}
+
+.brittanysignature-regular-normal-eerie-black-38px {
+  color: var(--eerie-black);
+  font-family: var(--font-family-brittanysignature-regular);
+  font-size: var(--font-size-xxxl);
+  font-style: normal;
+  font-weight: 400;
+}
+
+.avenir-book-normal-eerie-black-12px {
+  color: var(--eerie-black);
+  font-family: var(--font-family-avenir-book);
+  font-size: var(--font-size-l2);
+  font-style: normal;
+  font-weight: 400;
+}
+
+.avenir-medium-eerie-black-14px {
+  color: var(--eerie-black);
+  font-family: var(--font-family-avenir-medium);
+  font-size: var(--font-size-xl2);
+  font-style: normal;
+  font-weight: 500;
+}
+
+.montserrat-normal-black-15px {
+  color: var(--black);
+  font-family: var(--font-family-montserrat);
+  font-size: var(--font-size-xxl2);
+  font-style: normal;
+  font-weight: 400;
+}
+
+.border-1px-cararra {
+  border: 1px solid var(--cararra);
+}

@@ -1,0 +1,205 @@
+/* screen - desktop-stylist-next-steps-pop-up */
+
+.desktop-stylist-next-steps-pop-up {
+  display: flex;
+  height: 100vh;
+  justify-content: center;
+  width: 100vw;
+}
+
+.desktop-stylist-next-steps-pop-up .group-141 {
+  align-items: flex-start;
+  display: flex;
+  height: 400px;
+  justify-content: center;
+  margin: auto;
+  margin-top: 10%;
+}
+
+.desktop-stylist-next-steps-pop-up .overlap-group1 {
+  align-items: flex-start;
+  background-image: url(https://anima-uploads.s3.amazonaws.com/projects/629b931af4af1b5122078435/releases/62afa44ea45a13b0bb813521/img/path-42-1x-png@1x.png);
+  background-position: 50% 50%;
+  background-size: cover;
+  display: flex;
+  height: 418px;
+  justify-content: flex-end;
+  margin-top: -6px;
+  min-width: 718px;
+  padding: 15px 19px;
+}
+
+.desktop-stylist-next-steps-pop-up .group-140 {
+  align-items: center;
+  align-self: center;
+  display: flex;
+  flex-direction: column;
+  margin-bottom: 5.45px;
+  min-height: 355px;
+  width: 601px;
+}
+
+.desktop-stylist-next-steps-pop-up .overlap-group {
+  height: 96px;
+  margin-left: 3.0px;
+  position: relative;
+  width: 512px;
+}
+
+.desktop-stylist-next-steps-pop-up .change-profile-picture {
+  height: 82px;
+  left: 21px;
+  letter-spacing: 0;
+  line-height: 38px;
+  position: absolute;
+  text-align: center;
+  text-shadow: 0px 3px 6px #d8b696;
+  top: 0;
+  width: 470px;
+}
+
+.desktop-stylist-next-steps-pop-up .we-are-honored-exc {
+  left: 0;
+  letter-spacing: 0;
+  line-height: 20px;
+  position: absolute;
+  text-align: center;
+  top: 78px;
+  white-space: nowrap;
+}
+
+.desktop-stylist-next-steps-pop-up .heres-what-to-do-next {
+  letter-spacing: 0.28px;
+  line-height: 20px;
+  margin-left: 3.0px;
+  margin-top: 18px;
+  min-height: 21px;
+  min-width: 208px;
+  text-align: center;
+  white-space: nowrap;
+}
+
+.desktop-stylist-next-steps-pop-up .group-139 {
+  align-items: flex-start;
+  display: flex;
+  height: 130px;
+  margin-top: 28px;
+  min-width: 601px;
+}
+
+.desktop-stylist-next-steps-pop-up .group-138 {
+  align-items: center;
+  display: flex;
+  flex-direction: column;
+  min-height: 130px;
+  width: 177px;
+}
+
+.desktop-stylist-next-steps-pop-up .group-131 {
+  background-image: url(https://anima-uploads.s3.amazonaws.com/projects/629b931af4af1b5122078435/releases/62afa44ea45a13b0bb813521/img/group-130@1x.png);
+  background-position: 50% 50%;
+  background-size: cover;
+  height: 65px;
+  margin-right: 1.37px;
+  width: 40px;
+}
+
+.desktop-stylist-next-steps-pop-up .check-your-email-a {
+  height: 42px;
+  letter-spacing: 0;
+  line-height: 18px;
+  margin-top: 21px;
+  text-align: center;
+  width: 177px;
+}
+
+.desktop-stylist-next-steps-pop-up .group-13 {
+  align-items: center;
+  display: flex;
+  flex-direction: column;
+  margin-left: 36px;
+  min-height: 130px;
+  width: 177px;
+}
+
+.desktop-stylist-next-steps-pop-up .group-133 {
+  background-image: url(https://anima-uploads.s3.amazonaws.com/projects/629b931af4af1b5122078435/releases/62afa44ea45a13b0bb813521/img/group-132@1x.png);
+  background-position: 50% 50%;
+  background-size: cover;
+  height: 75px;
+  margin-right: 2.85px;
+  width: 58px;
+}
+
+.desktop-stylist-next-steps-pop-up .login-to-the-plunder {
+  height: 42px;
+  letter-spacing: 0;
+  line-height: 18px;
+  margin-top: 12px;
+  text-align: center;
+  width: 177px;
+}
+
+.desktop-stylist-next-steps-pop-up .group-135 {
+  background-image: url(https://anima-uploads.s3.amazonaws.com/projects/629b931af4af1b5122078435/releases/62afa44ea45a13b0bb813521/img/group-134@1x.png);
+  background-position: 50% 50%;
+  background-size: cover;
+  height: 66px;
+  margin-right: 2.18px;
+  width: 45px;
+}
+
+.desktop-stylist-next-steps-pop-up .view-your-rewards-to {
+  height: 42px;
+  letter-spacing: 0;
+  line-height: 18px;
+  margin-top: 20px;
+  text-align: center;
+  width: 177px;
+}
+
+.desktop-stylist-next-steps-pop-up .button-withdraw-all-earning {
+  align-items: flex-start;
+  background-color: var(--bizarre);
+  box-shadow: 2.78px 15.76px 40px #695f970d;
+  display: flex;
+  height: 34px;
+  justify-content: flex-end;
+  margin-left: 0.02px;
+  margin-top: 29px;
+  min-width: 121px;
+  padding: 0 29.0px;
+  cursor: pointer;
+}
+
+.button-withdraw-all-earning:hover {
+  box-shadow: 3px 15.76px 40px #695f970d;
+}
+
+.desktop-stylist-next-steps-pop-up .sign-in {
+  letter-spacing: 0;
+  line-height: 41px;
+  margin-top: -4.0px;
+  min-height: 21px;
+  min-width: 60px;
+  text-align: center;
+  white-space: nowrap;
+}
+
+.desktop-stylist-next-steps-pop-up .button-close-copy-2 {
+  align-items: flex-start;
+  background-color: var(--white);
+  border-radius: 19px;
+  display: flex;
+  height: 36px;
+  margin-left: 3px;
+  min-width: 36px;
+  padding: 12.3px 12.4px;
+  cursor: pointer;
+}
+
+.desktop-stylist-next-steps-pop-up .icon-close {
+  height: 10px;
+  object-fit: cover;
+  width: 10px;
+}

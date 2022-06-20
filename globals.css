@@ -1,0 +1,42 @@
+@import url("https://cdnjs.cloudflare.com/ajax/libs/meyer-reset/2.0/reset.min.css");
+
+@import url("https://fonts.googleapis.com/css?family=Montserrat:400,700,500|Manrope:400,700,600,800|Cairo:700,600|Open+Sans:400,700|Poppins:700,500");
+@font-face {
+  font-family: "BrittanySignature-Regular";
+  font-style: normal;
+  font-weight: 400;
+  src: url("https://fonts.animaapp.com/BrittanySignature-Regular") format("truetype");
+}
+@font-face {
+  font-family: "Avenir-Book";
+  font-style: normal;
+  font-weight: 400;
+  src: url("https://fonts.animaapp.com/Avenir-Book") format("opentype");
+}
+@font-face {
+  font-family: "Avenir-Medium";
+  font-style: normal;
+  font-weight: 500;
+  src: url("https://fonts.animaapp.com/Avenir-Medium") format("opentype");
+}
+@font-face {
+  font-family: "Avenir-MediumOblique";
+  font-style: normal;
+  font-weight: 500;
+  src: url("https://fonts.animaapp.com/Avenir-MediumOblique") format("opentype");
+}
+
+.screen a {
+  display: contents;
+  text-decoration: none;
+}
+
+.hidden,
+.hidden * {
+  pointer-events: none;
+  visibility: hidden;
+}
+
+* {
+  box-sizing: border-box;
+}
